@@ -1,4 +1,4 @@
-# Todo-App
+
 # To-Do Application
 
 This is a simple To-Do application built with Node.js, Express, MongoDB, and Next.js.
